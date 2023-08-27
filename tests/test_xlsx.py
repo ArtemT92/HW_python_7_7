@@ -1,4 +1,3 @@
-import os.path
 from openpyxl import load_workbook
 from conftest import RESOURCE_PATH, xlsx_path
 

@@ -1,4 +1,3 @@
-import os.path
 import xlrd
 from conftest import RESOURCE_PATH, xls_path
 
